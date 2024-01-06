@@ -1,0 +1,3 @@
+OrderID,MenuID,ItemName,Quantity,TotalAmount,Date,Status
+1,1,Burger,2,11.98,2023-11-10,Pending
+2,2,Pizza,1,8.99,2023-11-10,Pending
